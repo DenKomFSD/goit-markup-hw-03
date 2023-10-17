@@ -73,6 +73,11 @@ a {
     padding: 24px 0;
 }
 
+.nav-list .list-item {
+    display: flex;
+    padding: 24px 0;
+}
+
 .contacts-list {
     display: flex;
     gap: 40px;
